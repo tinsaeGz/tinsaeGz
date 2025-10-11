@@ -29,8 +29,10 @@ I focus on building efficient, maintainable systems — from embedded logic to s
 ---
 
 ### Experience
+**Associate Software Engineer - Ethronics Institute of Robotics and Autonomous Systems**
+
 **Research Engineer II – Ethronics Institute of Robotics and Autonomous Systems**  
-Developed FPGA and embedded systems for autonomous robots; led mobile and web app development initiatives.  
+Developed embedded systems for autonomous robots; led mobile and web app development initiatives.  
 
 **Team Lead – Chemical Supply and Distribution Management System**  
 Directed a small dev team building a full-stack inventory management platform.  

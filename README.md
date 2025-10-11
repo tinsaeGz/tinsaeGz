@@ -89,7 +89,7 @@ Optimized 3G/4G network coverage and performance analysis using Cisco Packet Tra
 |-----------|------|
 | 💼 **LinkedIn** | [linkedin.com/in/tinsae-gizachew-702b94239](https://www.linkedin.com/in/tinsae-gizachew-702b94239/) |
 | 💻 **GitHub** | [github.com/tinsaeGz](https://github.com/tinsaeGz) |
-| 🌐 **Portfolio** | [tensu-g.netlify.app](https://tensu-g.netlify.app/) |
+| 🌐 **Portfolio** | [tensu-g.netlify.app](https://tensu-gz.netlify.app/) |
 | ✉️ **Email** | [tinsae.gizachew.2392@gmail.com](mailto:tinsae.gizachew.2392@gmail.com) |
 
 </div>

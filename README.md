@@ -1,6 +1,6 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://github.com/tinsaeGz/tinsaeGz/assets/banner-github-dark.png" alt="Tinsae Gizachew Banner" width="100%" />
+  <img src="https://github.com/tinsaeGz/tinsaeGz/assets/banner.jpg" alt="Banner Image" width="100%" />
 </p>
 
 <h1 align="center">👋 Hi, I'm <span style="color:#58a6ff;">Tinsae Gizachew S.</span></h1>

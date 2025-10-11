@@ -1,6 +1,6 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="[https://github.com/tinsaeGz/tinsaeGz/assets/banner.jpg](https://images.unsplash.com/photo-1621839673705-6617adf9e890?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8ZnJvbnRlbmR8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&q=60&w=400)" alt="Banner Image" width="100%" />
+  <img src="https://images.unsplash.com/photo-1621839673705-6617adf9e890?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8ZnJvbnRlbmR8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&q=60&w=400)" alt="Banner Image" width="100%" />
 </p>
 
 <h1 align="center">👋 Hi, I'm <span style="color:#58a6ff;">Tinsae Gizachew S.</span></h1>

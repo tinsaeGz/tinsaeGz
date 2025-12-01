@@ -8,7 +8,7 @@
 <p align="center">
  # Tinsae Gizachew S.
 
-**M.Sc. Candidate in Electronics Engineering** | **FPGA, Embedded Systems, and Full-Stack Developer**  
+**Full-Stack Developer** | **FPGA, Embedded Systems** | **M.Sc. Candidate in Electronics Engineering**   
 Adama Science and Technology University, Ethiopia  
 
 ---
@@ -21,9 +21,9 @@ I focus on building efficient, maintainable systems — from embedded logic to s
 ---
 
 ### Current Work
+- Building full-stack web and mobile applications with **Flutter**, **React**, and **Node.js** 
 - Developing an FPGA-accelerated image preprocessing pipeline for real-time Edge AI  
 - Designing embedded and robotic systems at the *Ethronics Institute of Robotics and Autonomous Systems*  
-- Building full-stack web and mobile applications with **Flutter**, **React**, and **Node.js**  
 - Mentoring students in **digital design**, **VHDL**, and **software engineering**
 
 ---
